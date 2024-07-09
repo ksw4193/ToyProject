@@ -10,8 +10,6 @@ public class XRController : MonoBehaviour
     public ActionBasedController targetCont;
     
     private Gun gun;
-    private float nextFireTime = 0;
-    private float fireRate = 0.1f;
     private InputActionReference activateRef;
     private void Start()
     {
