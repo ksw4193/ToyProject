@@ -293,5 +293,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1847789ebee93643bcf7ec5744da8a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 1250903310369325693, guid: 3651cbf8f5f06e440a908504e540ab05, type: 3}
+  bulletPrefab: {fileID: 6903481551915533113, guid: c8bff79e172d92b499a05474d3a59029, type: 3}
   firePoint: {fileID: 7109956589164895437}
